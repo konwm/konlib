@@ -171,3 +171,9 @@ A debugging session is active.
 Quit anyway? (y or n) y
 gitpod /workspace/konlib (main) $ 
 ```
+
+更新：
+git status
+git add .
+git commit -m "updated."
+git push
